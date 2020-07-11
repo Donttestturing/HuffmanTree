@@ -1,0 +1,974 @@
+
+
+
+
+
+
+!DOCTYPE html
+html langen
+  head
+    meta charsetutf8
+  link reldnsprefetch hrefhttpsgithub.githubassets.com
+  link reldnsprefetch hrefhttpsavatars0.githubusercontent.com
+  link reldnsprefetch hrefhttpsavatars1.githubusercontent.com
+  link reldnsprefetch hrefhttpsavatars2.githubusercontent.com
+  link reldnsprefetch hrefhttpsavatars3.githubusercontent.com
+  link reldnsprefetch hrefhttpsgithubcloud.s3.amazonaws.com
+  link reldnsprefetch hrefhttpsuserimages.githubusercontent.com
+
+
+
+  link crossoriginanonymous mediaall integritysha512TD1gdStKo77Iu1AWNb2YoRJv7l1hZVO00heJ5wyGxiTvIbLRko1dQ1jEa9w5BK3poi18st9OPel71zK8A relstylesheet hrefhttpsgithub.githubassets.comassetsframeworks94d2de65a56b07e193e50e91873678b6.css 
+  link crossoriginanonymous mediaall integritysha5121N4QlbmRp6tyqxbm0KgsAq2CEnAm9g3BY5xUsD38OIUdydhO7ltbRnpR2Vn4g5SXipGWiiwQO1HUYLDV136Q relstylesheet hrefhttpsgithub.githubassets.comassetssite09367dd1ae1784b858e71c8471ca0949.css 
+    link crossoriginanonymous mediaall integritysha512PRyH3JXhrPyiSCrUGEjghjek3lYeFEX2pXSXaC4ENkLiDiEXKL8H2wSLXWGh4hHx3FTBouYYsR5ypWKpqw relstylesheet hrefhttpsgithub.githubassets.comassetsgithub731c9b196d43ff9599a770850575fcca.css 
+    
+    
+    
+    
+
+  meta nameviewport contentwidthdevicewidth
+  
+  titleGitHub  Donttestturingresume A digital resume for Brendan Devlintitle
+    meta namedescription contentA digital resume for Brendan Devlin. Contribute to Donttestturingresume development by creating an account on GitHub.
+    link relsearch typeapplicationopensearchdescriptionxml hrefopensearch.xml titleGitHub
+  link relfluidicon hrefhttpsgithub.comfluidicon.png titleGitHub
+  meta propertyfbappid content1401488693436528
+
+    meta nametwitterimagesrc contenthttpsavatars2.githubusercontent.comu52110466?s400ampv4 meta nametwittersite contentgithub meta nametwittercard contentsummary meta nametwittertitle contentDonttestturingresume meta nametwitterdescription contentA digital resume for Brendan Devlin. Contribute to Donttestturingresume development by creating an account on GitHub. 
+    meta propertyogimage contenthttpsavatars2.githubusercontent.comu52110466?s400ampv4 meta propertyogsitename contentGitHub meta propertyogtype contentobject meta propertyogtitle contentDonttestturingresume meta propertyogurl contenthttpsgithub.comDonttestturingresume meta propertyogdescription contentA digital resume for Brendan Devlin. Contribute to Donttestturingresume development by creating an account on GitHub. 
+
+  link relassets hrefhttpsgithub.githubassets.com
+  
+  
+  meta namerequestid contentB4648F2F1707D9F20B53FB5DB0E80B datapjaxtransient
+
+
+  
+
+  meta nameselectedlink valuereposource datapjaxtransient
+
+      meta namegooglesiteverification contentKT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU
+    meta namegooglesiteverification contentZzhVyEFwb7w3e0uOTltm8Jsck2F5StVihD0exw2fsA
+    meta namegooglesiteverification contentGXs5KoUUkNCoaAZn7wPNt01Pywp9M3sEjnt3ZWPc
+
+  meta nameoctolyticshost contentcollector.githubapp.com meta nameoctolyticsappid contentgithub meta nameoctolyticseventurl contenthttpscollector.githubapp.comgithubexternalbrowserevent meta nameoctolyticsdimensionrequestid contentB4648F2F1707D9F20B53FB5DB0E80B meta nameoctolyticsdimensionregionedge contentsea meta nameoctolyticsdimensionregionrender contentiad meta nameoctolyticsdimensiongaid content classjsoctogaid meta nameoctolyticsdimensionvisitorid content8807743066735699979 
+meta nameanalyticslocation contentltusernamegtltreponamegt datapjaxtransienttrue 
+
+
+
+    meta namegoogleanalytics contentUA37696912
+
+
+meta classjsgaset namedimension1 contentLogged Out
+
+
+
+  
+
+      meta namehostname contentgithub.com
+    meta nameuserlogin content
+
+      meta nameexpectedhostname contentgithub.com
+    meta namejsproxysitedetectionpayload contentZDdjYWMyZTJlYTRjYjE2MzYxM2FmZjg4MjFhNmNlYThkYTE0YjRlMWJmNDk4MGZhNDlkMTIzZjc5N2FjZjFhY3x7InJlbW90ZV9hZGRyZXNzIjoiMjA5LjEyOS4zMy4xMCIsInJlcXVlc3RfaWQiOiJCNDY0OjhGMkY6MTcwN0Q5RjoyMEI1M0ZCOjVEQjBFODBCIiwidGltZXN0YW1wIjoxNTcxODc0ODI3LCJob3N0IjoiZ2l0aHViLmNvbSJ9
+
+    meta nameenabledfeatures contentACTIONSV2ONMARKETPLACEMARKETPLACEFEATUREDBLOGPOSTSMARKETPLACEINVOICEDBILLINGMARKETPLACESOCIALPROOFCUSTOMERSMARKETPLACETRENDINGSOCIALPROOFMARKETPLACERECOMMENDATIONSMARKETPLACEPENDINGINSTALLATIONS
+
+  meta namehtmlsafenonce content09ff2c8a5d0d08982b5bc5c72c75dc523b964878
+
+  meta httpequivxpjaxversion content67d3257f1acfc3f77a3a97eb3c859631
+  
+
+      link hrefhttpsgithub.comDonttestturingresumecommitsmaster.atom relalternate titleRecent Commits to resumemaster typeapplicationatomxml
+
+  meta namegoimport contentgithub.comDonttestturingresume git httpsgithub.comDonttestturingresume.git
+
+  meta nameoctolyticsdimensionuserid content52110466 meta nameoctolyticsdimensionuserlogin contentDonttestturing meta nameoctolyticsdimensionrepositoryid content211384253 meta nameoctolyticsdimensionrepositorynwo contentDonttestturingresume meta nameoctolyticsdimensionrepositorypublic contenttrue meta nameoctolyticsdimensionrepositoryisfork contentfalse meta nameoctolyticsdimensionrepositorynetworkrootid content211384253 meta nameoctolyticsdimensionrepositorynetworkrootnwo contentDonttestturingresume meta nameoctolyticsdimensionrepositoryexploregithubmarketplacecictashown contentfalse 
+
+
+    link relcanonical hrefhttpsgithub.comDonttestturingresume datapjaxtransient
+
+
+  meta namebrowserstatsurl contenthttpsapi.github.comprivatebrowserstats
+
+  meta namebrowsererrorsurl contenthttpsapi.github.comprivatebrowsererrors
+
+  link relmaskicon hrefhttpsgithub.githubassets.compinnedoctocat.svg color000000
+  link relicon typeimagexicon classjssitefavicon hrefhttpsgithub.githubassets.comfavicon.ico
+
+meta namethemecolor content1e2327
+
+
+
+
+
+  link relmanifest hrefmanifest.json crossOriginusecredentials
+
+  head
+
+  body classloggedout envproduction minwidthlg
+    
+
+  div classpositionrelative jsheaderwrapper 
+    a hrefstartofcontent tabindex1 classpx2 py4 bgblue textwhite showonfocus jsskiptocontentSkip to contenta
+    span classProgress progresspjaxloader positionfixed widthfull jspjaxloaderbar
+      span classprogresspjaxloaderbar top0 left0 stylewidth 0span
+    span
+
+    
+    
+    
+
+
+        header classHeaderold headerloggedout  positionrelative f4 py2 rolebanner
+  div classcontainerlg dflex px3
+    div classdflex flexjustifybetween flexitemscenter
+        a classmr4 hrefhttpsgithub.com arialabelHomepage datagaclickLogged out Header go to homepage iconlogowordmark
+          svg height32 classocticon octiconmarkgithub textwhite viewBox0 0 16 16 version1.1 width32 ariahiddentruepath fillruleevenodd dM8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55.17.55.38 0.19.01.82.011.492.01.372.53.492.69.94.09.23.48.94.821.13.28.15.68.52.01.53.63.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07.52.28.87.511.071.78.23.64.893.643.95 0.87.311.59.822.15.08.2.361.02.082.12 0 0 .67.21 2.2.82.64.18 1.32.27 2.27.68 0 1.36.09 2 .27 1.531.04 2.2.82 2.2.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.071.87 3.753.65 3.95.29.25.54.73.54 1.48 0 1.07.01 1.93.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c04.423.58888zsvg
+        a
+    div
+
+    div classHeaderMenu HeaderMenuloggedout dflex flexjustifybetween flexitemscenter flexauto
+      div classdnone
+        button classbtnlink jsdetailstarget typebutton arialabelToggle navigation ariaexpandedfalse
+          svg height24 classocticon octiconx textgray viewBox0 0 12 16 version1.1 width18 ariahiddentruepath fillruleevenodd dM7.48 8l3.75 3.751.48 1.48L6 9.48l3.75 3.751.481.48L4.52 8 .77 4.25l1.481.48L6 6.52l3.753.75 1.48 1.48L7.48 8zsvg
+        button
+      div
+
+        nav classmt0 arialabelGlobal
+          ul classdflex liststylenone
+              li class mr3 mrlg3 edgeitemfix positionrelative flexwrap flexjustifybetween dflex flexitemscenter 
+                details classHeaderMenudetails detailsoverlay detailsreset widthfull
+                  summary classHeaderMenusummary HeaderMenulink px0 py3 border0 nowrap  dinlineblock
+                    Why GitHub?
+                    svg x0px y0px viewBox0 0 14 8 xmlspacepreserve fillnone classiconchevondownmktg positionrelative
+                      path dM11l6.26L131path
+                    svg
+                  summary
+                  div classdropdownmenu flexauto rounded1 bgwhite px0 mt0  p4 leftn4 positionabsolute
+                    a hreffeatures classpy2 lhcondensedultra dblock linkgraydark nounderline h5 Bumplinkhover datagaclickLogged out Header go to FeaturesFeatures span classBumplinksymbol floatright textnormal textgraylightrarrspana
+                    ul classliststylenone f5 pb3
+                      li classedgeitemfixa hreffeaturescodereview classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to Code reviewCode reviewali
+                      li classedgeitemfixa hreffeaturesprojectmanagement classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to Project managementProject managementali
+                      li classedgeitemfixa hreffeaturesintegrations classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to IntegrationsIntegrationsali
+                      li classedgeitemfixa hreffeaturesactions classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to ActionsActionsa
+                          li classedgeitemfixa hreffeaturespackageregistry classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to Package RegistryPackage registrya
+
+                      li classedgeitemfixa hreffeaturessecurity classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to SecuritySecuritya
+                      li classedgeitemfixa hreffeaturesteammanagement classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to Team managementTeam managementali
+                      li classedgeitemfixa hreffeaturessocialcoding classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to Social codingSocial codingali
+                      li classedgeitemfixa hreffeaturesdocumentation classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to DocumentationDocumentationali
+                      li classedgeitemfixa hreffeaturescodehosting classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to Code hostingCode hostingali
+                    ul
+
+                    ul classliststylenone mb0 borderlgtop ptlg3
+                      li classedgeitemfixa hrefcustomerstories classpy2 lhcondensedultra dblock nounderline linkgraydark nounderline h5 Bumplinkhover datagaclickLogged out Header go to Customer storiesCustomer stories span classBumplinksymbol floatright textnormal textgraylightrarrspanali
+                      li classedgeitemfixa hrefsecurity classpy2 lhcondensedultra dblock nounderline linkgraydark nounderline h5 Bumplinkhover datagaclickLogged out Header go to SecuritySecurity span classBumplinksymbol floatright textnormal textgraylightrarrspanali
+                    ul
+                  div
+                details
+              li
+              li class mr3 mrlg3
+                a hrefenterprise classHeaderMenulink nounderline py3 dblock dlginlineblock datagaclickLogged out Header go to EnterpriseEnterprisea
+              li
+
+              li class mr3 mrlg3 edgeitemfix positionrelative flexwrap flexjustifybetween dflex flexitemscenter 
+                details classHeaderMenudetails detailsoverlay detailsreset widthfull
+                  summary classHeaderMenusummary HeaderMenulink px0 py3 border0 nowrap  dinlineblock
+                    Explore
+                    svg x0px y0px viewBox0 0 14 8 xmlspacepreserve fillnone classiconchevondownmktg positionrelative
+                      path dM11l6.26L131path
+                    svg
+                  summary
+
+                  div classdropdownmenu flexauto rounded1 bgwhite px0 pt2 pb0 mt0  p4 leftn4 positionabsolute
+                    ul classliststylenone mb3
+                      li classedgeitemfixa hrefexplore classpy2 lhcondensedultra dblock linkgraydark nounderline h5 Bumplinkhover datagaclickLogged out Header go to ExploreExplore GitHub span classBumplinksymbol floatright textnormal textgraylightrarrspanali
+                    ul
+
+                    h4 classtextgraylight textnormal textmono f5 mb2  bordertop pt3Learn amp contributeh4
+                    ul classliststylenone mb3
+                      li classedgeitemfixa hreftopics classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to TopicsTopicsali
+                        li classedgeitemfixa hrefcollections classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to CollectionsCollectionsali
+                      li classedgeitemfixa hreftrending classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to TrendingTrendingali
+                      li classedgeitemfixa hrefhttpslab.github.com classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to Learning labLearning Labali
+                      li classedgeitemfixa hrefhttpsopensource.guide classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to Open source guidesOpen source guidesali
+                    ul
+
+                    h4 classtextgraylight textnormal textmono f5 mb2  bordertop pt3Connect with othersh4
+                    ul classliststylenone mb0
+                      li classedgeitemfixa hrefhttpsgithub.comevents classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to EventsEventsali
+                      li classedgeitemfixa hrefhttpsgithub.community classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to Community forumCommunity forumali
+                      li classedgeitemfixa hrefhttpseducation.github.com classpy2 pb0 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to GitHub EducationGitHub Educationali
+                    ul
+                  div
+                details
+              li
+
+              li class mr3 mrlg3
+                a hrefmarketplace classHeaderMenulink nounderline py3 dblock dlginlineblock datagaclickLogged out Header go to MarketplaceMarketplacea
+              li
+
+              li class mr3 mrlg3 edgeitemfix positionrelative flexwrap flexjustifybetween dflex flexitemscenter 
+                details classHeaderMenudetails detailsoverlay detailsreset widthfull
+                  summary classHeaderMenusummary HeaderMenulink px0 py3 border0 nowrap  dinlineblock
+                    Pricing
+                    svg x0px y0px viewBox0 0 14 8 xmlspacepreserve fillnone classiconchevondownmktg positionrelative
+                       path dM11l6.26L131path
+                    svg
+                  summary
+
+                  div classdropdownmenu flexauto rounded1 bgwhite px0 pt2 pb4 mt0  p4 leftn4 positionabsolute
+                    a hrefpricing classpb2 lhcondensedultra dblock linkgraydark nounderline h5 Bumplinkhover datagaclickLogged out Header go to PricingPlans span classBumplinksymbol floatright textnormal textgraylightrarrspana
+
+                    ul classliststylenone mb3
+                      li classedgeitemfixa hrefpricingfeaturecomparison classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to Compare plansCompare plansali
+                      li classedgeitemfixa hrefhttpsenterprise.github.comcontact classpy2 lhcondensedultra dblock linkgray nounderline f5 datagaclickLogged out Header go to Contact SalesContact Salesali
+                    ul
+
+                    ul classliststylenone mb0  bordertop pt3
+                      li classedgeitemfixa hrefnonprofit classpy2 lhcondensedultra dblock nounderline linkgraydark nounderline h5 Bumplinkhover datagaclickLogged out Header go to NonprofitsNonprofit span classBumplinksymbol floatright textnormal textgraylightrarrspanali
+                      li classedgeitemfixa hrefhttpseducation.github.com classpy2 pb0 lhcondensedultra dblock nounderline linkgraydark nounderline h5 Bumplinkhover  datagaclickLogged out Header go to EducationEducation span classBumplinksymbol floatright textnormal textgraylightrarrspanali
+                    ul
+                  div
+                details
+              li
+          ul
+        nav
+
+      div classdflex flexitemscenter px0 textcenter textleft
+          div classdlgflex 
+            div classheadersearch mr3 scopedsearch sitescopedsearch jssitesearch positionrelative jsjumpto
+  rolecombobox
+  ariaownsjumptoresults
+  arialabelSearch or jump to
+  ariahaspopuplistbox
+  ariaexpandedfalse
+
+  div classpositionrelative
+    !  ! textareaxmp optionformform classjssitesearchform rolesearch arialabelSite datascopetypeRepository datascopeid211384253 datascopedsearchurlDonttestturingresumesearch dataunscopedsearchurlsearch actionDonttestturingresumesearch acceptcharsetUTF8 methodgetinput nameutf8 typehidden valuex2713 
+      label classformcontrol inputsm headersearchwrapper p0 headersearchwrapperjumpto positionrelative dflex flexjustifybetween flexitemscenter jschromelessinputcontainer
+        input typetext
+          classformcontrol inputsm headersearchinput jumptofield jsjumptofield jssitesearchfocus jssitesearchfield isclearable
+          datahotkeys
+          nameq
+          value
+          placeholderSearch
+          dataunscopedplaceholderSearch GitHub
+          datascopedplaceholderSearch
+          autocapitalizeoff
+          ariaautocompletelist
+          ariacontrolsjumptoresults
+          arialabelSearch
+          datajumptosuggestionspathgraphqlGetSuggestedNavigationDestinationscsrftokenRR25AL3BHt8XHB4E7ekHfQmWl9toZPBDAdMvVswDQbKY6kUZgvj6be3DeAeEdaHQlawl8BFECY0TqJhxilQ
+          spellcheckfalse
+          autocompleteoff
+          
+          input typehidden classjssitesearchtypefield nametype 
+            img srchttpsgithub.githubassets.comimagessearchkeyslash.svg alt classmr2 headersearchkeyslash
+
+            div classBox positionabsolute overflowhidden dnone jumptosuggestions jsjumptosuggestionscontainer
+              
+ul classdnone jsjumptosuggestionstemplatecontainer
+  
+
+li classdflex flexjustifystart flexitemscenter p0 f5 navigationitem jsnavigationitem jsjumptosuggestion roleoption
+  a tabindex1 classnounderline dflex flexauto flexitemscenter jumptosuggestionspath jsjumptosuggestionpath jsnavigationopen p2 href
+    div classjumptoocticon jsjumptoocticon flexshrink0 mr2 textcenter dnone
+      svg height16 width16 classocticon octiconrepo flexshrink0 jsjumptoocticonrepo dnone titleRepository arialabelRepository viewBox0 0 12 16 version1.1 roleimgpath fillruleevenodd dM4 9H3V8h1v1zm03H3v1h1V6zm02H3v1h1V4zm02H3v1h1V2zm81v12c0 .55.45 11 1H6v2l1.51.5L3 16v2H1c.55 01.4511V1c0.55.451 11h10c.55 0 1 .45 1 1zm1 10H1v2h2v1h3v1h5v2zm010H2v9h9V1zsvg
+      svg height16 width16 classocticon octiconproject flexshrink0 jsjumptoocticonproject dnone titleProject arialabelProject viewBox0 0 15 16 version1.1 roleimgpath fillruleevenodd dM10 12h3V2h3v10zm42h3V2H6v8zm4 4h3V2H2v12zm1 1h13V1H1v14zM14 0H1a1 1 0 001 1v14a1 1 0 001 1h13a1 1 0 0011V1a1 1 0 0011zsvg
+      svg height16 width16 classocticon octiconsearch flexshrink0 jsjumptoocticonsearch dnone titleSearch arialabelSearch viewBox0 0 16 16 version1.1 roleimgpath fillruleevenodd dM15.7 13.3l3.813.83A5.93 5.93 0 0013 6c03.312.69666S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48.41 3.471.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52.09.7.3a.996.996 0 0001.41v.01zM7 10.7c2.59 04.72.114.74.7 02.59 2.114.7 4.74.7 2.59 0 4.7 2.11 4.7 4.7 0 2.592.11 4.74.7 4.7zsvg
+    div
+
+    img classavatar mr2 flexshrink0 jsjumptosuggestionavatar dnone alt arialabelTeam src width28 height28
+
+    div classjumptosuggestionname jsjumptosuggestionname flexauto overflowhidden textleft nowrap csstruncate csstruncatetarget
+    div
+
+    div classborder rounded1 flexshrink0 bggray px1 textgraylight ml1 f6 dnone jsjumptobadgesearch
+      span classjsjumptobadgesearchtextdefault dnone arialabelin this repository
+        In this repository
+      span
+      span classjsjumptobadgesearchtextglobal dnone arialabelin all of GitHub
+        All GitHub
+      span
+      span ariahiddentrue classdinlineblock ml1 valignmiddlespan
+    div
+
+    div ariahiddentrue classborder rounded1 flexshrink0 bggray px1 textgraylight ml1 f6 dnone donnavfocus jsjumptobadgejump
+      Jump to
+      span classdinlineblock ml1 valignmiddlespan
+    div
+  a
+li
+
+ul
+
+ul classdnone jsjumptonoresultstemplatecontainer
+  li classdflex flexjustifycenter flexitemscenter f5 dnone jsjumptosuggestion p2
+    span classtextgrayNo suggested jump to resultsspan
+  li
+ul
+
+ul idjumptoresults rolelistbox classp0 m0 jsnavigationcontainer jumptosuggestionsresultscontainer jsjumptosuggestionsresultscontainer
+  
+
+li classdflex flexjustifystart flexitemscenter p0 f5 navigationitem jsnavigationitem jsjumptoscopedsearch dnone roleoption
+  a tabindex1 classnounderline dflex flexauto flexitemscenter jumptosuggestionspath jsjumptosuggestionpath jsnavigationopen p2 href
+    div classjumptoocticon jsjumptoocticon flexshrink0 mr2 textcenter dnone
+      svg height16 width16 classocticon octiconrepo flexshrink0 jsjumptoocticonrepo dnone titleRepository arialabelRepository viewBox0 0 12 16 version1.1 roleimgpath fillruleevenodd dM4 9H3V8h1v1zm03H3v1h1V6zm02H3v1h1V4zm02H3v1h1V2zm81v12c0 .55.45 11 1H6v2l1.51.5L3 16v2H1c.55 01.4511V1c0.55.451 11h10c.55 0 1 .45 1 1zm1 10H1v2h2v1h3v1h5v2zm010H2v9h9V1zsvg
+      svg height16 width16 classocticon octiconproject flexshrink0 jsjumptoocticonproject dnone titleProject arialabelProject viewBox0 0 15 16 version1.1 roleimgpath fillruleevenodd dM10 12h3V2h3v10zm42h3V2H6v8zm4 4h3V2H2v12zm1 1h13V1H1v14zM14 0H1a1 1 0 001 1v14a1 1 0 001 1h13a1 1 0 0011V1a1 1 0 0011zsvg
+      svg height16 width16 classocticon octiconsearch flexshrink0 jsjumptoocticonsearch dnone titleSearch arialabelSearch viewBox0 0 16 16 version1.1 roleimgpath fillruleevenodd dM15.7 13.3l3.813.83A5.93 5.93 0 0013 6c03.312.69666S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48.41 3.471.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52.09.7.3a.996.996 0 0001.41v.01zM7 10.7c2.59 04.72.114.74.7 02.59 2.114.7 4.74.7 2.59 0 4.7 2.11 4.7 4.7 0 2.592.11 4.74.7 4.7zsvg
+    div
+
+    img classavatar mr2 flexshrink0 jsjumptosuggestionavatar dnone alt arialabelTeam src width28 height28
+
+    div classjumptosuggestionname jsjumptosuggestionname flexauto overflowhidden textleft nowrap csstruncate csstruncatetarget
+    div
+
+    div classborder rounded1 flexshrink0 bggray px1 textgraylight ml1 f6 dnone jsjumptobadgesearch
+      span classjsjumptobadgesearchtextdefault dnone arialabelin this repository
+        In this repository
+      span
+      span classjsjumptobadgesearchtextglobal dnone arialabelin all of GitHub
+        All GitHub
+      span
+      span ariahiddentrue classdinlineblock ml1 valignmiddlespan
+    div
+
+    div ariahiddentrue classborder rounded1 flexshrink0 bggray px1 textgraylight ml1 f6 dnone donnavfocus jsjumptobadgejump
+      Jump to
+      span classdinlineblock ml1 valignmiddlespan
+    div
+  a
+li
+
+  
+
+li classdflex flexjustifystart flexitemscenter p0 f5 navigationitem jsnavigationitem jsjumptoglobalsearch dnone roleoption
+  a tabindex1 classnounderline dflex flexauto flexitemscenter jumptosuggestionspath jsjumptosuggestionpath jsnavigationopen p2 href
+    div classjumptoocticon jsjumptoocticon flexshrink0 mr2 textcenter dnone
+      svg height16 width16 classocticon octiconrepo flexshrink0 jsjumptoocticonrepo dnone titleRepository arialabelRepository viewBox0 0 12 16 version1.1 roleimgpath fillruleevenodd dM4 9H3V8h1v1zm03H3v1h1V6zm02H3v1h1V4zm02H3v1h1V2zm81v12c0 .55.45 11 1H6v2l1.51.5L3 16v2H1c.55 01.4511V1c0.55.451 11h10c.55 0 1 .45 1 1zm1 10H1v2h2v1h3v1h5v2zm010H2v9h9V1zsvg
+      svg height16 width16 classocticon octiconproject flexshrink0 jsjumptoocticonproject dnone titleProject arialabelProject viewBox0 0 15 16 version1.1 roleimgpath fillruleevenodd dM10 12h3V2h3v10zm42h3V2H6v8zm4 4h3V2H2v12zm1 1h13V1H1v14zM14 0H1a1 1 0 001 1v14a1 1 0 001 1h13a1 1 0 0011V1a1 1 0 0011zsvg
+      svg height16 width16 classocticon octiconsearch flexshrink0 jsjumptoocticonsearch dnone titleSearch arialabelSearch viewBox0 0 16 16 version1.1 roleimgpath fillruleevenodd dM15.7 13.3l3.813.83A5.93 5.93 0 0013 6c03.312.69666S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48.41 3.471.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52.09.7.3a.996.996 0 0001.41v.01zM7 10.7c2.59 04.72.114.74.7 02.59 2.114.7 4.74.7 2.59 0 4.7 2.11 4.7 4.7 0 2.592.11 4.74.7 4.7zsvg
+    div
+
+    img classavatar mr2 flexshrink0 jsjumptosuggestionavatar dnone alt arialabelTeam src width28 height28
+
+    div classjumptosuggestionname jsjumptosuggestionname flexauto overflowhidden textleft nowrap csstruncate csstruncatetarget
+    div
+
+    div classborder rounded1 flexshrink0 bggray px1 textgraylight ml1 f6 dnone jsjumptobadgesearch
+      span classjsjumptobadgesearchtextdefault dnone arialabelin this repository
+        In this repository
+      span
+      span classjsjumptobadgesearchtextglobal dnone arialabelin all of GitHub
+        All GitHub
+      span
+      span ariahiddentrue classdinlineblock ml1 valignmiddlespan
+    div
+
+    div ariahiddentrue classborder rounded1 flexshrink0 bggray px1 textgraylight ml1 f6 dnone donnavfocus jsjumptobadgejump
+      Jump to
+      span classdinlineblock ml1 valignmiddlespan
+    div
+  a
+li
+
+
+ul
+
+            div
+      label
+form  div
+div
+
+          div
+
+        a hreflogin?returnto2FDonttestturing2Fresume
+          classHeaderMenulink nounderline mr3
+          datahydroclickquoteventtypequotquotauthentication.clickquotquotpayloadquotquotlocationinpagequotquotsite header menuquotquotrepositoryidquotnullquotauthtypequotquotSIGNUPquotquotclientidquotnullquotoriginatingrequestidquotquotB4648F2F1707D9F20B53FB5DB0E80Bquotquotoriginatingurlquotquothttpsgithub.comDonttestturingresumequotquotreferrerquotnullquotuseridquotnull datahydroclickhmac17acfa5aa0859ef350e3c4090420d487c031d21d81fdabd89ed6f8b73d361b91
+          datagaclickLogged out Header clicked Sign in textsignin
+          Signnbspin
+        a
+          a hrefjoin?sourcerepoDonttestturing2Fresume
+            classHeaderMenulink dinlineblock nounderline border bordergraydark rounded1 px2 py1
+            datahydroclickquoteventtypequotquotauthentication.clickquotquotpayloadquotquotlocationinpagequotquotsite header menuquotquotrepositoryidquotnullquotauthtypequotquotSIGNUPquotquotclientidquotnullquotoriginatingrequestidquotquotB4648F2F1707D9F20B53FB5DB0E80Bquotquotoriginatingurlquotquothttpsgithub.comDonttestturingresumequotquotreferrerquotnullquotuseridquotnull datahydroclickhmac17acfa5aa0859ef350e3c4090420d487c031d21d81fdabd89ed6f8b73d361b91
+            datagaclickLogged out Header clicked Sign up textsignup
+            Signnbspup
+          a
+      div
+    div
+  div
+header
+
+  div
+
+  div idstartofcontent classshowonfocusdiv
+
+
+    div idjsflashcontainer
+
+div
+
+
+
+  div classapplicationmain  datacommithovercardsenabled
+        div itemscope itemtypehttpschema.orgSoftwareSourceCode class
+    main idjsrepopjaxcontainer datapjaxcontainer 
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+  div classpagehead repohead instapaperignore readabilitymenu experimentreponav  
+    div classrepoheaddetailscontainer clearfix container
+
+      ul classpageheadactions
+
+
+
+
+  li
+    
+  a classtooltipped tooltippeds btn btnsm btnwithcount arialabelYou must be signed in to watch a repository relnofollow datahydroclickquoteventtypequotquotauthentication.clickquotquotpayloadquotquotlocationinpagequotquotnotification subscription menu watchquotquotrepositoryidquotnullquotauthtypequotquotLOGINquotquotclientidquotnullquotoriginatingrequestidquotquotB4648F2F1707D9F20B53FB5DB0E80Bquotquotoriginatingurlquotquothttpsgithub.comDonttestturingresumequotquotreferrerquotnullquotuseridquotnull datahydroclickhmac008f810df0d4ff99b82cd04c538366247a77ba417c672f51fa0561e5571252c4 hreflogin?returnto2FDonttestturing2Fresume
+    svg classocticon octiconeye valigntextbottom viewBox0 0 16 16 version1.1 width16 height16 ariahiddentruepath fillruleevenodd dM8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s367.946zM8 12c2.2 041.7844 02.2 1.84 44 2.22 0 4 1.8 4 4 0 2.221.78 44 4zm24c0 1.11.89 22 21.11 02.8922 01.11.892 22 1.11 0 2 .89 2 2zsvg
+    Watch
+a    a classsocialcount hrefDonttestturingresumewatchers
+       arialabel1 user is watching this repository
+      1
+    a
+
+  li
+
+  li
+        a classbtn btnsm btnwithcount tooltipped tooltippeds arialabelYou must be signed in to star a repository relnofollow datahydroclickquoteventtypequotquotauthentication.clickquotquotpayloadquotquotlocationinpagequotquotstar buttonquotquotrepositoryidquot211384253quotauthtypequotquotLOGINquotquotclientidquotnullquotoriginatingrequestidquotquotB4648F2F1707D9F20B53FB5DB0E80Bquotquotoriginatingurlquotquothttpsgithub.comDonttestturingresumequotquotreferrerquotnullquotuseridquotnull datahydroclickhmacb2de70ad5498724d85aa01e64a92157bc57182c900cb1d90f50ff5d288531fbb hreflogin?returnto2FDonttestturing2Fresume
+      svg classocticon octiconstar valigntextbottom viewBox0 0 14 16 version1.1 width14 height16 ariahiddentruepath fillruleevenodd dM14 6l4.9.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l.934.74L14 6zsvg
+      Star
+a
+    a classsocialcount jssocialcount hrefDonttestturingresumestargazers
+      arialabel0 users starred this repository
+      0
+    a
+
+  li
+
+  li
+      a classbtn btnsm btnwithcount tooltipped tooltippeds arialabelYou must be signed in to fork a repository relnofollow datahydroclickquoteventtypequotquotauthentication.clickquotquotpayloadquotquotlocationinpagequotquotrepo details fork buttonquotquotrepositoryidquot211384253quotauthtypequotquotLOGINquotquotclientidquotnullquotoriginatingrequestidquotquotB4648F2F1707D9F20B53FB5DB0E80Bquotquotoriginatingurlquotquothttpsgithub.comDonttestturingresumequotquotreferrerquotnullquotuseridquotnull datahydroclickhmac321bab2d983d50724fb1687870c290136ca125bd7d82f99b9ffbc25c7807593a hreflogin?returnto2FDonttestturing2Fresume
+        svg classocticon octiconrepoforked valigntextbottom viewBox0 0 10 16 version1.1 width10 height16 ariahiddentruepath fillruleevenodd dM8 1a1.993 1.993 0 001 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 001 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 0013.72V9.5l33V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0.65.551.2 1.21.2.65 0 1.2.55 1.2 1.2 0 .65.55 1.21.2 1.2zm3 10c.66 01.2.551.21.2 0.65.551.2 1.21.2.65 0 1.2.55 1.2 1.2 0 .65.55 1.21.2 1.2zm310c.66 01.2.551.21.2 0.65.551.2 1.21.2.65 0 1.2.55 1.2 1.2 0 .65.55 1.21.2 1.2zsvg
+        Fork
+a
+    a hrefDonttestturingresumenetworkmembers classsocialcount
+       arialabel0 users forked this repository
+      0
+    a
+  li
+ul
+
+      h1 classpublic 
+    svg classocticon octiconrepo viewBox0 0 12 16 version1.1 width12 height16 ariahiddentruepath fillruleevenodd dM4 9H3V8h1v1zm03H3v1h1V6zm02H3v1h1V4zm02H3v1h1V2zm81v12c0 .55.45 11 1H6v2l1.51.5L3 16v2H1c.55 01.4511V1c0.55.451 11h10c.55 0 1 .45 1 1zm1 10H1v2h2v1h3v1h5v2zm010H2v9h9V1zsvg
+  span classauthor itempropauthora classurl fn relauthor datahovercardtypeuser datahovercardurlhovercards?userid52110466 dataoctoclickhovercardlinkclick dataoctodimensionslinktypeself hrefDonttestturingDonttestturingaspan!
+span classpathdividerspan!
+strong itempropnamea datapjaxjsrepopjaxcontainer hrefDonttestturingresumeresumeastrong
+  
+
+h1
+
+    div
+    
+nav classhxreponav reponav jsreponav jssidenavcontainerpjax container
+     itemscope
+     itemtypehttpschema.orgBreadcrumbList
+    arialabelRepository
+     datapjaxjsrepopjaxcontainer
+
+  span itemscope itemtypehttpschema.orgListItem itempropitemListElement
+    a classjsselectednavigationitem selected reponavitem itempropurl datahotkeyg c ariacurrentpage dataselectedlinksreposource repodownloads repocommits reporeleases repotags repobranches repopackages Donttestturingresume hrefDonttestturingresume
+      svg classocticon octiconcode viewBox0 0 14 16 version1.1 width14 height16 ariahiddentruepath fillruleevenodd dM9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3zsvg
+      span itempropnameCodespan
+      meta itempropposition content1
+a  span
+
+    span itemscope itemtypehttpschema.orgListItem itempropitemListElement
+      a itempropurl datahotkeyg i classjsselectednavigationitem reponavitem dataselectedlinksrepoissues repolabels repomilestones Donttestturingresumeissues hrefDonttestturingresumeissues
+        svg classocticon octiconissueopened viewBox0 0 14 16 version1.1 width14 height16 ariahiddentruepath fillruleevenodd dM7 2.3c3.14 0 5.7 2.56 5.7 5.7s2.56 5.75.7 5.7A5.71 5.71 0 011.3 8c03.14 2.565.7 5.75.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 73.14 773.14777zm1 3H6v5h2V4zm0 6H6v2h2v2zsvg
+        span itempropnameIssuesspan
+        span classCounter0span
+        meta itempropposition content2
+a    span
+
+  span itemscope itemtypehttpschema.orgListItem itempropitemListElement
+    a datahotkeyg p itempropurl classjsselectednavigationitem reponavitem dataselectedlinksrepopulls checks Donttestturingresumepulls hrefDonttestturingresumepulls
+      svg classocticon octicongitpullrequest viewBox0 0 12 16 version1.1 width12 height16 ariahiddentruepath fillruleevenodd dM11 11.28V5c.03.78.341.47.942.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0010 15a1.993 1.993 0 0013.72zm1 2.92c.66 01.2.551.21.2 0.65.551.2 1.21.2.65 0 1.2.55 1.2 1.2 0 .65.55 1.21.2 1.2zM4 3c01.11.89222a1.993 1.993 0 001 3.72v6.56A1.993 1.993 0 002 15a1.993 1.993 0 0013.72V4.72c.59.34 1.98 11.72zm.8 10c0 .66.55 1.21.2 1.2.65 01.2.551.21.2 0.65.551.2 1.21.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0.65.551.2 1.21.2.65 0 1.2.55 1.2 1.2 0 .65.55 1.21.2 1.2zsvg
+      span itempropnamePull requestsspan
+      span classCounter0span
+      meta itempropposition content3
+a  span
+
+
+    a datahotkeyg b classjsselectednavigationitem reponavitem dataselectedlinksrepoprojects newrepoproject repoproject Donttestturingresumeprojects hrefDonttestturingresumeprojects
+      svg classocticon octiconproject viewBox0 0 15 16 version1.1 width15 height16 ariahiddentruepath fillruleevenodd dM10 12h3V2h3v10zm42h3V2H6v8zm4 4h3V2H2v12zm1 1h13V1H1v14zM14 0H1a1 1 0 001 1v14a1 1 0 001 1h13a1 1 0 0011V1a1 1 0 0011zsvg
+      Projects
+      span classCounter 0span
+a
+
+
+    a dataskippjaxtrue classjsselectednavigationitem reponavitem dataselectedlinkssecurity alerts policy codescanning Donttestturingresumesecurityadvisories hrefDonttestturingresumesecurityadvisories
+      svg classocticon octiconshield viewBox0 0 14 16 version1.1 width14 height16 ariahiddentruepath fillruleevenodd dM0 2l72 7 2v6.02C14 12.69 8.69 16 7 16c1.69 073.3177.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c1.449 062.89666.982V2.75zm1 .75L7 2v12c1.207 052.48255.985V3.5zsvg
+      Security
+a
+    a classjsselectednavigationitem reponavitem dataselectedlinksrepographs repocontributors dependencygraph pulse people Donttestturingresumepulse hrefDonttestturingresumepulse
+      svg classocticon octicongraph viewBox0 0 16 16 version1.1 width16 height16 ariahiddentruepath fillruleevenodd dM16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h2V6h2v7zsvg
+      Insights
+a
+
+nav
+
+
+  div
+div classcontainerlg clearfix newdiscussiontimeline experimentreponav  px3
+  div classrepositorycontent 
+
+    
+    
+        div classsignuppromptbg rounded1
+      div classsignupprompt p4 textcenter mb4 rounded1
+        div classpositionrelative
+          !  ! textareaxmp optionformform actionpromptdismissalssignup acceptcharsetUTF8 methodpostinput nameutf8 typehidden valuex2713 input typehidden namemethod valueput input typehidden nameauthenticitytoken valueimbsta2ajTzrf7Xec3BXbUwhCQQpudkjuqcn1epkxh8WkSSIrxStwj9sQV53suKum5gK4Vbf6nUbxPqw 
+            button typesubmit classpositionabsolute top0 right0 btnlink linkgray datagaclickLogged out Sign up prompt clicked Dismiss textdismiss
+              Dismiss
+            button
+form          h3 classpt2Join GitHub todayh3
+          p classcol6 mxautoGitHub is home to over 40 million developers working together to host and review code manage projects and build software together.p
+          a classbtn btnprimary datahydroclickquoteventtypequotquotauthentication.clickquotquotpayloadquotquotlocationinpagequotquotfiles signup promptquotquotrepositoryidquotnullquotauthtypequotquotSIGNUPquotquotclientidquotnullquotoriginatingrequestidquotquotB4648F2F1707D9F20B53FB5DB0E80Bquotquotoriginatingurlquotquothttpsgithub.comDonttestturingresumequotquotreferrerquotnullquotuseridquotnull datahydroclickhmac565c7d34135ccf3c1d57fb80c19e8977d206f47bdb275d878b6fc054743aff72 datagaclickLogged out Sign up prompt clicked Sign up textsignup hrefjoin?sourcepromptcodeampsourcerepoDonttestturing2FresumeSign upa
+        div
+      div
+    div
+
+
+      div classmb3  div classf4
+        span classtextgraydark mr2 itempropabout
+          A digital resume for Brendan Devlin
+        span
+  div
+div
+
+
+
+
+  div classoverallsummary 
+    ul classnumberssummary
+      li classcommits
+        a datapjax hrefDonttestturingresumecommitsmaster
+            svg classocticon octiconhistory viewBox0 0 14 16 version1.1 width14 height16 ariahiddentruepath fillruleevenodd dM8 13H6V6h5v2H8v5zM7 1C4.81 1 2.87 2.02 1.59 3.59L0 2v4h4L2.5 4.5C3.55 3.17 5.17 2.3 7 2.3c3.14 0 5.7 2.56 5.7 5.7s2.56 5.75.7 5.7A5.71 5.71 0 011.3 8c0.34.03.67.091H.08C.03 7.33 0 7.66 0 8c0 3.86 3.14 7 7 7s73.14 773.14777zsvg
+            span classnum textemphasized
+              28
+            span
+            commits
+        a
+      li
+      li
+        a datapjax hrefDonttestturingresumebranches
+          svg classocticon octicongitbranch viewBox0 0 10 16 version1.1 width10 height16 ariahiddentruepath fillruleevenodd dM10 5c01.11.89222a1.993 1.993 0 001 3.72v.3c.02.52.23.98.63 1.38.4.4.86.611.38.63.83.021.48.162 .45V4.72a1.993 1.993 0 0013.72C.88 1 0 1.89 0 3a2 2 0 001 1.72v6.56c.59.351 .991 1.72 0 1.11.89 2 2 2 1.11 0 2.89 22 0.53.21.531.36.09.06.48.41.59.47.25.11.56.17.94.17 1.05.05 1.95.45 2.751.25S8.95 7.77 9 6.73h.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65.55 1.21.2 1.2C1.35 4.2.8 3.65.8 3c0.65.551.2 1.21.2zm0 12.41c.66 01.2.551.21.2 0.65.551.2 1.21.2.65 0 1.2.55 1.2 1.2 0 .65.55 1.21.2 1.2zm68c.66 01.2.551.21.2 0.65.551.2 1.21.2.65 0 1.2.55 1.2 1.2 0 .65.55 1.21.2 1.2zsvg
+          span classnum textemphasized
+            1
+          span
+          branch
+        a
+      li
+
+
+      li
+        a hrefDonttestturingresumereleases
+          svg classocticon octicontag viewBox0 0 14 16 version1.1 width14 height16 ariahiddentruepath fillruleevenodd dM7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.594.59a.996.996 0 0001.41L7.73 1.73zM2.38 7.09c.31.3.47.7.471.13V3.5c0.88.721.59 1.591.59h2.47c.42 0 .83.16 1.13.47l6.14 6.134.73 4.736.136.15zM3.01 3h2v2H3V3h.01zsvg
+          span classnum textemphasized
+            0
+          span
+          releases
+        a
+      li
+
+
+        li 
+            includefragment srcDonttestturingresumecontributorssize
+              a hrefDonttestturingresumegraphscontributors
+                svg classocticon octiconorganization viewBox0 0 16 16 version1.1 width16 height16 ariahiddentruepath fillruleevenodd dM16 12.999c0 .439.45 11 1H7.995c.539 0.994.447.995.999H1c.54 01.56111 02.634 34 34s.229.409 01c.841.6211.058.5913 .0582.419 1.3673 2.53s2.442.58 2.5 3c.058 2.41.159 2.3791 3.229.59 0 1 0 1s1.549.711 2.42 2.088C9.196 9.369 10 8.999 10 8.999s.229.409 01c.841.621.058.5913 .0582.419 1.3673 2.53s2.437.581 2.495 3c.059 2.41.158 2.381 3.229.59 0 1 0 1s3.005 1.366 3.005 4zsvg
+                span classnum textemphasizedspan
+                Fetching contributors
+              a
+includefragment        li
+
+    ul
+  div
+
+
+
+
+
+
+
+  div classfilenavigation inmidpage dflex flexitemsstart
+  
+details classdetailsreset detailsoverlay selectmenu branchselectmenu  hxrsm idbranchselectmenu
+  summary classbtn btnsm selectmenubutton csstruncate
+           datahotkeyw
+           titleSwitch branches or tags
+    iBranchi
+    span classcsstruncatetarget datamenubuttonmasterspan
+  summary
+
+  detailsmenu classselectmenumodal hxrsmmodal positionabsolute stylezindex 99 srcDonttestturingresumereflistmaster?sourceactiondisambiguateampsourcecontrollerfiles preload
+    includefragment classselectmenuloadingoverlay animpulse
+      svg height32 classocticon octiconoctoface viewBox0 0 16 16 version1.1 width32 ariahiddentruepath fillruleevenodd dM14.7 5.34c.13.32.551.59.133.31 0 01.05.333.44 1.31.282.07.323.13.32s2.13.043.13.32c2.391.643.441.33.441.3.68 1.72.26 2.99.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c01.36.492.481.33.35zM8 14.02c3.3 05.98.155.983.35 0.76.381.48 1.022.07 1.07.98 2.9.46 4.96.46 2.07 0 3.88.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.192.68 3.355.98 3.35zM5.49 9.01c.66 01.2.81.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2.8 1.21.79s.541.781.21.78zm5.02 0c.66 01.2.791.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2.8 1.21.79s.531.781.21.78zsvg
+    includefragment
+  detailsmenu
+details
+
+
+        button typebutton classbtn btnsm disabled tooltipped tooltippedn newpullrequestbtn arialabelYou must be signed in to create a pull request
+          New pull request
+        button
+
+  div classbreadcrumb flexauto
+    
+  div
+
+  div classBtnGroup
+
+
+    a classbtn btnsm emptyicon floatright BtnGroupitem datahydroclickquoteventtypequotquotrepository.clickquotquotpayloadquotquottargetquotquotFINDFILEBUTTONquotquotrepositoryidquot211384253quotclientidquotnullquotoriginatingrequestidquotquotB4648F2F1707D9F20B53FB5DB0E80Bquotquotoriginatingurlquotquothttpsgithub.comDonttestturingresumequotquotreferrerquotnullquotuseridquotnull datahydroclickhmacaca2485edda114a771784018de62bac60844319ae2e4cb9c070d1a330ae1bbce datagaclickRepository find file locationrepo overview datahotkeyt datapjaxtrue hrefDonttestturingresumefindmasterFind filea
+  div
+
+
+    
+
+    details classgetreposelectmenu jsgetreposelectmenu jsanongetreposelectmenu positionrelative detailsoverlay detailsreset
+  summary classbtn btnsm ml2 btnprimary datahydroclickquoteventtypequotquotrepository.clickquotquotpayloadquotquotrepositoryidquot211384253quottargetquotquotCLONEORDOWNLOADBUTTONquotquotclientidquotnullquotoriginatingrequestidquotquotB4648F2F1707D9F20B53FB5DB0E80Bquotquotoriginatingurlquotquothttpsgithub.comDonttestturingresumequotquotreferrerquotnullquotuseridquotnull datahydroclickhmac1e95b9dbfcf8ef43e993ca5337b25f7fc2f8f51c5d6ba5a5a916dc5a8e3a4597
+    Clone or download
+    span classdropdowncaretspan
+summary  div classpositionrelative
+    div classgetrepomodal dropdownmenu dropdownmenusw pb0 jstogglercontainer  jsgetrepomodal
+
+      div classgetrepomodaloptions
+          div classcloneoptions httpscloneoptions
+
+            h4 classmb1
+              Clone with HTTPS
+              a classmutedlink hrefhttpshelp.github.comarticleswhichremoteurlshouldiuse targetblank titleWhich remote URL should I use?
+                svg classocticon octiconquestion viewBox0 0 14 16 version1.1 width14 height16 ariahiddentruepath fillruleevenodd dM6 10h2v2H6v2zm43.5C10 8.64 8 9 8 9H6c0.55.451 11h.5c.28 0 .5.22.5.5v1c0.28.22.5.5.5h1c.28 0.5.22.5.5V7H4c01.5 1.53 33s3 1 3 2.5zM7 2.3c3.14 0 5.7 2.56 5.7 5.7s2.56 5.75.7 5.7A5.71 5.71 0 011.3 8c03.14 2.565.7 5.75.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 73.14 773.14777zsvg
+              a
+            h4
+            p classmb2 getrepodecriptiontext
+              Use Git or checkout with SVN using the web URL.
+            p
+
+            div classinputgroup
+  input typetext classformcontrol inputmonospace inputsm dataautoselect valuehttpsgithub.comDonttestturingresume.git arialabelClone this repository at httpsgithub.comDonttestturingresume.git readonly
+  div classinputgroupbutton
+    clipboardcopy valuehttpsgithub.comDonttestturingresume.git arialabelCopy to clipboard classbtn btnsm datahydroclickquoteventtypequotquotcloneordownload.clickquotquotpayloadquotquotfeatureclickedquotquotCOPYURLquotquotgitrepositorytypequotquotREPOSITORYquotquotrepositoryidquot211384253quotclientidquotnullquotoriginatingrequestidquotquotB4648F2F1707D9F20B53FB5DB0E80Bquotquotoriginatingurlquotquothttpsgithub.comDonttestturingresumequotquotreferrerquotnullquotuseridquotnull datahydroclickhmac6f5da74f5d57f3202bbb818a7bf9c864ffc43033cf22c7952ffdf887c9756b1esvg classocticon octiconclippy viewBox0 0 14 16 version1.1 width14 height16 ariahiddentruepath fillruleevenodd dM2 13h4v1H2v1zm56H2v1h5V7zm2 3V8l3 3 3 3v2h5v2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v1H2v1zm9 1h1v2c.02.28.11.52.3.7.19.18.42.28.7.3H1c.55 01.4511V4c0.55.451 11h3c01.11.892 22 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h1V6H1v9h10v2zM2 5h8c0.55.45111H8c.55 01.4511s.451111 .451 1.45 11 1H3c.55 01 .451 1zsvgclipboardcopy
+  div
+div
+
+          div
+
+        div classmt2
+          
+a classbtn btnoutline getrepobtn jsanondownloadziplink  relnofollow datahydroclickquoteventtypequotquotcloneordownload.clickquotquotpayloadquotquotfeatureclickedquotquotDOWNLOADZIPquotquotgitrepositorytypequotquotREPOSITORYquotquotrepositoryidquot211384253quotclientidquotnullquotoriginatingrequestidquotquotB4648F2F1707D9F20B53FB5DB0E80Bquotquotoriginatingurlquotquothttpsgithub.comDonttestturingresumequotquotreferrerquotnullquotuseridquotnull datahydroclickhmac691c919507021be8be1e72442cee62f5d8d5971276013b2c279261bcf2e8be22 datagaclickRepository download zip locationrepo overview hrefDonttestturingresumearchivemaster.zipDownload ZIPa
+
+        div
+      div
+
+        div classjsmodaldownloading hidden
+          div classpy2 px3
+            h4 classlhcondensed mb3Downloadingspan classanimatedellipsiscontainerspan classanimatedellipsis...spanspanh4
+            p classtextgray
+              Want to be notified of new releases in
+              span classtextboldDonttestturingresumespan?
+            p
+          div
+          div classwidthfull dflex
+            a relnofollow classgetrepobtn btn btnoutline stylewidth 50 datahydroclickquoteventtypequotquotauthentication.clickquotquotpayloadquotquotlocationinpagequotquotdownload popoverquotquotrepositoryidquot211384253quotauthtypequotquotLOGINquotquotclientidquotnullquotoriginatingrequestidquotquotB4648F2F1707D9F20B53FB5DB0E80Bquotquotoriginatingurlquotquothttpsgithub.comDonttestturingresumequotquotreferrerquotnullquotuseridquotnull datahydroclickhmac5c411cece86ed4c76458e89285826069b4b8c59fc070a36bf742ea7b42d56026 hreflogin?returntohttps3A2F2Fgithub.com2FDonttestturing2FresumeSign ina
+              a relnofollow classgetrepobtn btn btnprimary stylewidth 50 datahydroclickquoteventtypequotquotauthentication.clickquotquotpayloadquotquotlocationinpagequotquotdownload popoverquotquotrepositoryidquot211384253quotauthtypequotquotSIGNUPquotquotclientidquotnullquotoriginatingrequestidquotquotB4648F2F1707D9F20B53FB5DB0E80Bquotquotoriginatingurlquotquothttpsgithub.comDonttestturingresumequotquotreferrerquotnullquotuseridquotnull datahydroclickhmac8f279b798746f5bbc4df05aaa2237ea699a3989dfd72f8ec62c57b33ebde5203 hrefjoin?returnto2FDonttestturing2FresumeSign upa
+          div
+        div
+
+      div classjsmodaldownloadmac py2 px3 dnone
+        h4 classlhcondensed mb3Launching GitHub Desktopspan classanimatedellipsiscontainerspan classanimatedellipsis...spanspanh4
+        p classtextgrayIf nothing happens a hrefhttpsdesktop.github.comdownload GitHub Desktopa and try again.p
+        pbutton classbtnlink jsgetrepomodaldownloadbackGo backbuttonp
+      div
+
+      div classjsmodaldownloadwindows py2 px3 dnone
+        h4 classlhcondensed mb3Launching GitHub Desktopspan classanimatedellipsiscontainerspan classanimatedellipsis...spanspanh4
+        p classtextgrayIf nothing happens a hrefhttpsdesktop.github.comdownload GitHub Desktopa and try again.p
+        pbutton classbtnlink jsgetrepomodaldownloadbackGo backbuttonp
+      div
+
+      div classjsmodaldownloadxcode py2 px3 dnone
+        h4 classlhcondensed mb3Launching Xcodespan classanimatedellipsiscontainerspan classanimatedellipsis...spanspanh4
+        p classtextgrayIf nothing happens a hrefhttpsdeveloper.apple.comxcodedownload Xcodea and try again.p
+        pbutton classbtnlink jsgetrepomodaldownloadbackGo backbuttonp
+      div
+
+      div classjsmodaldownloadvisualstudio py2 px3 dnone
+        h4 classlhcondensed mb3Launching Visual Studiospan classanimatedellipsiscontainerspan classanimatedellipsis...spanspanh4
+        p classtextgrayIf nothing happens a hrefhttpsvisualstudio.github.comdownload the GitHub extension for Visual Studioa and try again.p
+        pbutton classbtnlink jsgetrepomodaldownloadbackGo backbuttonp
+      div
+
+    div
+  div
+details
+
+div
+
+
+  
+
+
+  div classcommittease jsdetailscontainer Details dflex roundedtop1 dataissueandprhovercardsenabled
+    
+div classAvatarStack flexselfstart 
+  div classAvatarStackbody arialabelDonttestturing
+        a classavatar dataskippjaxtrue datahovercardtypeuser datahovercardurlhovercards?userid52110466 dataoctoclickhovercardlinkclick dataoctodimensionslinktypeself hrefDonttestturing
+          img height20 width20 altDonttestturing srchttpsavatars0.githubusercontent.comu52110466?s60ampv4 
+a  div
+div
+
+    div classflexauto f6 mr3
+      
+      a hrefDonttestturingresumecommits?authorDonttestturing
+     classcommitauthor tooltipped tooltippeds usermention
+     arialabelView all commits by DonttestturingDonttestturinga
+
+
+  
+
+
+        a datapjaxtrue titleUpdate README.md classmessage textinherit hrefDonttestturingresumecommit62d9077fd0b0357e2f15b466899249255a4817bcUpdate README.mda
+
+    div
+    div classnowrap dflex flexselfstart flexitemsbaseline
+      span classmr1Latest commitspan
+      a classcommitteasesha mr1 hrefDonttestturingresumecommit62d9077fd0b0357e2f15b466899249255a4817bc datapjax
+        62d9077
+      a
+      span itempropdateModifiedrelativetime datetime20190928T230309Z classnowrapSep 28 2019relativetimespan
+    div
+  div
+
+
+
+includefragment classfilewrap srcDonttestturingresumefilelistmaster
+  a classdnone jspermalinkshortcut datahotkeyy hrefDonttestturingresumetree62d9077fd0b0357e2f15b466899249255a4817bcPermalinka
+
+  table classfiles jsnavigationcontainer jsactivenavigationcontainer datapjax
+    thead
+      tr
+        thspan classsronlyTypespanth
+        thspan classsronlyNamespanth
+        thspan classsronlyLatest commit messagespanth
+        thspan classsronlyCommit timespanth
+      tr
+    thead
+
+
+    tbody
+      tr classwarning includefragmenterror
+        td classiconsvg classocticon octiconalert viewBox0 0 16 16 version1.1 width16 height16 ariahiddentruepath fillruleevenodd dM8.893 1.5c.183.31.52.5.887.5s.703.19.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704.19.877.5a1.03 1.03 0 00.011.002L8.893 1.5zm.133 11.497H6.987v2.003h2.039v2.003zm03.004H6.987V5.987h2.039v4.006zsvgtd
+        td classcontent colspan3Failed to load latest commit information.td
+      tr
+
+        tr classjsnavigationitem
+          td classicon
+            svg arialabelfile classocticon octiconfile viewBox0 0 12 16 version1.1 width12 height16 roleimgpath fillruleevenodd dM6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v1H2v1zm107.5V14c0 .55.45 11 1H1c.55 01.4511V2c0.55.451 11h7.5L12 4.5zM11 5L8 2H1v12h10V5zsvg
+            img width16 height16 classspinner alt srchttpsgithub.githubassets.comimagesspinnersoctocatspinner32.gif 
+          td
+          td classcontent
+            span classcsstruncate csstruncatetargeta classjsnavigationopen titleREADME.md id04c6e90faac2675aa89e2176d2eec7d8cc03228d8984deda09f18f39b2e88bca8cebe08a hrefDonttestturingresumeblobmasterREADME.mdREADME.mdaspan
+          td
+          td classmessage
+            span classcsstruncate csstruncatetarget
+            span
+          td
+          td classage
+            span classcsstruncate csstruncatetargetspan
+          td
+        tr
+        tr classjsnavigationitem
+          td classicon
+            svg arialabelfile classocticon octiconfile viewBox0 0 12 16 version1.1 width12 height16 roleimgpath fillruleevenodd dM6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v1H2v1zm107.5V14c0 .55.45 11 1H1c.55 01.4511V2c0.55.451 11h7.5L12 4.5zM11 5L8 2H1v12h10V5zsvg
+            img width16 height16 classspinner alt srchttpsgithub.githubassets.comimagesspinnersoctocatspinner32.gif 
+          td
+          td classcontent
+            span classcsstruncate csstruncatetargeta classjsnavigationopen titleconfig.yml idaeb42283af8ef8e9da40ededd3ae2ab218854876c67fdee2dbd3d0448dc69a530d5f30a7 hrefDonttestturingresumeblobmasterconfig.ymlconfig.ymlaspan
+          td
+          td classmessage
+            span classcsstruncate csstruncatetarget
+                  a datapjaxtrue titleSet theme jekyllthememidnight classlinkgray hrefDonttestturingresumecommitf05e4e146f382a88b96537ea6b1d10fa495c67d3Set theme jekyllthememidnighta
+            span
+          td
+          td classage
+            span classcsstruncate csstruncatetargettimeago datetime20190927T190222Z classnowrapSep 27 2019timeagospan
+          td
+        tr
+    tbody
+  table
+
+includefragment
+
+
+
+
+  div idreadme classBox Boxcondensed instapaperbody md jscodeblockcontainer
+    div classBoxheader dflex flexitemscenter flexjustifybetween px2
+      h3 classBoxtitle pr3
+        svg classocticon octiconbook viewBox0 0 16 16 version1.1 width16 height16 ariahiddentruepath fillruleevenodd dM3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm115h4v1h4V5zm0 2h4v1h4V7zm0 2h4v1h4V9zm26v9c0 .55.45 11 1H9.5l1 111H2c.55 01.4511V3c0.55.451 11h5.5l1 1 11H15c.55 0 1 .45 1 1zm8 .5L7.5 3H2v9h6V3.5zm7.5H9.5l.5.5V12h6V3zsvg
+        README.md
+      h3
+    div
+        div classPopover animscalein jstagsearchpopover
+     hidden
+     datatagsearchurlDonttestturingresumefindsymbols
+     datatagsearchrefmaster
+     datatagsearchpathREADME.md
+     datatagsearchlangMarkdown
+     datahydroclickquoteventtypequotquotcodenavigation.clickonsymbolquotquotpayloadquotquotactionquotquotclickonsymbolquotquotrepositoryidquot211384253quotrefquotquotmasterquotquotlanguagequotquotMarkdownquotquotclientidquotnullquotoriginatingrequestidquotquotB4648F2F1707D9F20B53FB5DB0E80Bquotquotoriginatingurlquotquothttpsgithub.comDonttestturingresumequotquotreferrerquotnullquotuseridquotnull
+     datahydroclickhmac14a935f24a16612e4d35153a3731c74f18bfa5eb1a3304b1814a51833788ab60
+  div classPopovermessage Popovermessagelarge Popovermessagetopleft TagsearchPopover mt1 mb4 mxauto Box boxshadowlarge
+    div classTagsearchPopovercontent jstagsearchpopovercontent overflowauto stylewillchangetransform
+    div
+  div
+div
+
+      div classBoxbody
+        article classmarkdownbody entrycontent p5 itemproptextpstrongemI am a student at MiraCosta College. I am an aspiring Software engineer and FullStack Devoloper. I value being engaged in my career and Computer Science is an excellent problem solving field that necessitates engagement. I enjoy the convivial attitude and camaraderie of working in a team while tackling tough problems playing team sports helped to impart those concepts to me.emstrongp
+pstrongEducationstrongp
+ul
+liB.S. in Computer science in progress currently attending MiraCosta Collegeli
+liCurrently have a H.S. diplomali
+ul
+pstrongSkillsstrongp
+ol
+listrongMild fluency with Java Javascript and Pythonstrongli
+listrongStrives for a collaborative work enviromentstrongli
+listrongDrivenstrongli
+listrongPrompt and timelystrongli
+ol
+pstrongWork experiencestrongp
+ul
+liWorked as a Customer Service Representative at PizzaHut 20092011li
+liWorked as a pool cleaner for Kressin Pool Cleaning 20112014li
+liWorked as a subcontractor for Kressin Trust 20142018li
+ul
+pstrongAdditional Infostrongp
+ul
+licodeAssistantCaptain of UTC Jaguars Ice Hockey Team teambuilding is a huge focuscodeli
+licodeI love and appreciate learning and I hope that will never stopcodeli
+ul
+pstrongC.S. Goalsstrongp
+ul
+liGoal in computer science to create a restorationrecoloring program for old photographsli
+ul
+pstrongC.S. Projectsstrongp
+ul
+liExtensive database program for a library system using Java complete with a userinterfaceli
+ul
+article
+      div
+  div
+
+
+
+  div
+div
+
+    main
+  div
+  
+
+  div
+
+        
+div classfooter containerlg widthfull px3 rolecontentinfo
+  div classpositionrelative dflex flexjustifybetween pt6 pb2 mt6 f6 textgray bordertop bordergraylight 
+    ul classliststylenone dflex flexwrap 
+      li classmr3copy 2019 span title0.19213s from unicorn658c7d84c5j4l5jGitHubspan Inc.li
+        li classmr3a datagaclickFooter go to terms textterms hrefhttpsgithub.comsitetermsTermsali
+        li classmr3a datagaclickFooter go to privacy textprivacy hrefhttpsgithub.comsiteprivacyPrivacyali
+        li classmr3a datagaclickFooter go to security textsecurity hrefhttpsgithub.comsecuritySecurityali
+        li classmr3a hrefhttpsgithubstatus.com datagaclickFooter go to status textstatusStatusali
+        lia datagaclickFooter go to help texthelp hrefhttpshelp.github.comHelpali
+    ul
+
+    a arialabelHomepage titleGitHub classfooterocticon dnone dlgblock mxlg4 hrefhttpsgithub.com
+      svg height24 classocticon octiconmarkgithub viewBox0 0 16 16 version1.1 width24 ariahiddentruepath fillruleevenodd dM8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55.17.55.38 0.19.01.82.011.492.01.372.53.492.69.94.09.23.48.94.821.13.28.15.68.52.01.53.63.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07.52.28.87.511.071.78.23.64.893.643.95 0.87.311.59.822.15.08.2.361.02.082.12 0 0 .67.21 2.2.82.64.18 1.32.27 2.27.68 0 1.36.09 2 .27 1.531.04 2.2.82 2.2.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.071.87 3.753.65 3.95.29.25.54.73.54 1.48 0 1.07.01 1.93.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c04.423.58888zsvg
+a
+   ul classliststylenone dflex flexwrap 
+        li classmr3a datagaclickFooter go to contact textcontact hrefhttpsgithub.comcontactContact GitHubali
+        li classmr3a hrefhttpsgithub.compricing datagaclickFooter go to Pricing textPricingPricingali
+      li classmr3a hrefhttpsdeveloper.github.com datagaclickFooter go to api textapiAPIali
+      li classmr3a hrefhttpstraining.github.com datagaclickFooter go to training texttrainingTrainingali
+        li classmr3a hrefhttpsgithub.blog datagaclickFooter go to blog textblogBlogali
+        lia datagaclickFooter go to about textabout hrefhttpsgithub.comaboutAboutali
+
+    ul
+  div
+  div classdflex flexjustifycenter pb6
+    span classf6 textgraylightspan
+  div
+div
+
+
+
+  div idajaxerrormessage classajaxerrormessage flash flasherror
+    svg classocticon octiconalert viewBox0 0 16 16 version1.1 width16 height16 ariahiddentruepath fillruleevenodd dM8.893 1.5c.183.31.52.5.887.5s.703.19.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704.19.877.5a1.03 1.03 0 00.011.002L8.893 1.5zm.133 11.497H6.987v2.003h2.039v2.003zm03.004H6.987V5.987h2.039v4.006zsvg
+    button typebutton classflashclose jsajaxerrordismiss arialabelDismiss error
+      svg classocticon octiconx viewBox0 0 12 16 version1.1 width12 height16 ariahiddentruepath fillruleevenodd dM7.48 8l3.75 3.751.48 1.48L6 9.48l3.75 3.751.481.48L4.52 8 .77 4.25l1.481.48L6 6.52l3.753.75 1.48 1.48L7.48 8zsvg
+    button
+    You cant perform that action at this time.
+  div
+
+
+    script crossoriginanonymous integritysha512A3lqXgLHMyhXAvaSTrgdRg9XnBQ44gealjPGOZ7L7DsBRD4BPTsAwtkQOmxnMrwkbLMwTqTU1j5OahVv7GQw typeapplicationjavascript srchttpsgithub.githubassets.comassetscompatbootstrap0a9060cf.jsscript
+    script crossoriginanonymous integritysha512LvGLPmpLqbKNNADuYJ47E0d3HPeo4Jmlx8mYvXmOchOeBZPWb3BKsXS4Om2UYObDGLa1ABKCXkc1ZiqLV4w typeapplicationjavascript srchttpsgithub.githubassets.comassetsframeworks075bfb40.jsscript
+    
+    script crossoriginanonymous asyncasync integritysha512rwBdy13iDbdGjEjdV8FJmZgpjODNwHDbJkKrUmAUz5cNXALmYSmVLkCrkwwvFCnbOwUlUmT7fNpAlrn8Ig typeapplicationjavascript srchttpsgithub.githubassets.comassetsgithubbootstrap4f191dd1.jsscript
+    
+    
+    
+  div classjsstalesessionflash flash flashwarn flashbanner hidden
+    
+    svg classocticon octiconalert viewBox0 0 16 16 version1.1 width16 height16 ariahiddentruepath fillruleevenodd dM8.893 1.5c.183.31.52.5.887.5s.703.19.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704.19.877.5a1.03 1.03 0 00.011.002L8.893 1.5zm.133 11.497H6.987v2.003h2.039v2.003zm03.004H6.987V5.987h2.039v4.006zsvg
+    span classjsstalesessionflashsignedin hiddenYou signed in with another tab or window. a hrefReloada to refresh your session.span
+    span classjsstalesessionflashsignedout hiddenYou signed out in another tab or window. a hrefReloada to refresh your session.span
+  div
+  template idsitedetailsdialog
+  details classdetailsreset detailsoverlay detailsoverlaydark lhdefault textgraydark hxrsm open
+    summary rolebutton arialabelClose dialogsummary
+    detailsdialog classBox Boxoverlay dflex flexcolumn animfadein fast hxrsmdialog hxrsmmodal
+      button classBoxbtnocticon m0 btnocticon positionabsolute right0 top0 typebutton arialabelClose dialog dataclosedialog
+        svg classocticon octiconx viewBox0 0 12 16 version1.1 width12 height16 ariahiddentruepath fillruleevenodd dM7.48 8l3.75 3.751.48 1.48L6 9.48l3.75 3.751.481.48L4.52 8 .77 4.25l1.481.48L6 6.52l3.753.75 1.48 1.48L7.48 8zsvg
+      button
+      div classoctocatspinner my6 jsdetailsdialogspinnerdiv
+    detailsdialog
+  details
+template
+
+  div classPopover jshovercardcontent positionabsolute styledisplay none outline none tabindex0
+  div classPopovermessage Popovermessagebottomleft Popovermessagelarge Box boxshadowlarge stylewidth360px
+  div
+div
+
+  div arialivepolite classjsglobalscreenreadernotice sronlydiv
+
+  body
+html
+
